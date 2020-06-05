@@ -34,8 +34,7 @@ Desenvolvedor Web / Front-end e Back-end
 
 ### Frameworks Back-end
 * Django
-* Code Igniter
-* Wordpress
+* CodeIgniter
 
 ### Banco de Dados
 * MySQL
