@@ -2,8 +2,8 @@
 
 ## Summary
 
-A self learning Developer Full-stack.
-Working as freelancer since 2010.
+_A self learning Developer Full-stack.
+Working as freelancer since 2010._
 
 ### Languages
 * Portuguese (Native)
@@ -34,7 +34,7 @@ Working as freelancer since 2010.
 * PHP
   * CodeIgniter
   * Laravel (Beginner)
-* CMS
+#### CMS
   * Wordpress
   * Elementor
 
@@ -56,45 +56,36 @@ Working as freelancer since 2010.
 
 ## Education
 
-High School (2021 to on course)
-E. E. Dom Silvério
+_High School (2021 on course)
+E. E. Dom Silvério_
 
 
-#### Worked at
+### Worked at
 
-RGB Comunicação
-Web developer
-Institutional websites using CodeIgniter
-2010 to 2012
+###### RGB Comunicação
+_Developer - Institutional websites using CodeIgniter | 2010 to 2012_
 
-Gawa
-Web developer
-Institutional websites
-CodeIgniter and Wordpress
-2012 to 2014
+###### Gawa
+_Co-founder and Developer - Institutional websites
+CodeIgniter and Wordpress | 2012 to 2014_
 
-Guidez
-Local establishment guide 
-Django, Bootstrap, Jquery, NGINX
-guidez - 2012 to 2015
+###### Guidez
+_Co-founder and Developer - Local establishment guide 
+Django, Bootstrap, Jquery, NGINX | 2012 to 2015_
 
-Pleever - pleever.com
-Gestão de revenda de veiculos novos e usados
+###### Pleever - [pleever.com](pleever.com)
+_Developer - Gestão de revenda de veiculos novos e usados
 Dealing management system for new and used vehicles 
-Django, Bootstrap, Jquery, Docker, NGINX
-2015 to 2019 
+Django, Bootstrap, Jquery, Docker, NGINX | 2015 to 2019_ 
 
-Matiplus - matiplus.com.br
-Hotel management system - matiplus.com.br
-Django, Bootstrap, Jquery, Docker, NGINX
-2018 to 2021
+###### Matiplus - [matiplus.com.br](matiplus.com.br)
+_Developer - Hotel management system
+Django, Bootstrap, Jquery, Docker, NGINX | 2018 to 2021_
 
-Que Planta - queplanta.com
-Social Network to connect people with plants
-Django, Reactjs, Material UI, Relay, Graphql
-2019 to 2020
+###### Que Planta - [queplanta.com](queplanta.com)
+_Developer - Social Network to connect people with plants
+Django, Reactjs, Material UI, Relay, Graphql | 2019 to 2020_
 
-Mepagg - mepagg.com
-Billing management system
-Django, Bootstrap, Jquery, Docker, NGINX, Gateway Payment Methods.
-2021
+###### Mepagg - [mepagg.com](mepagg.com)
+_Developer - Billing management system
+Django, Bootstrap, Jquery, Docker, NGINX, Gateway Payment Methods. | 2021_
