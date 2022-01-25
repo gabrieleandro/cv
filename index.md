@@ -20,8 +20,10 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
   * SASS
   * LESS
 * JS
+
 #### Frameworks
 * React (Beginner)
+
 #### Styles
 * Bootstrap
 * Material UI
@@ -32,6 +34,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 * PHP
   * CodeIgniter
   * Laravel (Beginner)
+
 #### CMS
   * Wordpress
   * Elementor
@@ -49,8 +52,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 * Mercurial
 
 ## Education
-
-_High School (2021 on course)
+* _High School (2021 on course)
 E. E. Dom Silvério_
 
 ## Worked at
