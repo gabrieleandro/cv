@@ -52,8 +52,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 * Mercurial
 
 ## Education
-* _High School (2021 on course)
-E. E. Dom Silvério_
+* _Adult Education Supplementary - E. E. Dom Silvério (2021 on course)_
 
 ## Worked at
 
@@ -104,4 +103,4 @@ _Developer - Billing management system_
 
 Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
 
-2021
+2021 to present
