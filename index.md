@@ -2,7 +2,7 @@
 
 ## Summary
 
-_A self learning Developer Full-stack.
+_A self learning Developer Full-stack from Brazil.
 Working as freelancer since 2010._
 
 ### Languages
