@@ -3,7 +3,7 @@
 ## Summary
 
 _A self learning Developer Full-stack from Brazil.
-Working as freelancer since 2010._
+Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 
 ### Languages
 * Portuguese (Native)
