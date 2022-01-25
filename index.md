@@ -52,7 +52,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 * Mercurial
 
 ## Education
-* _Adult Education | Supplementary - E. E. Dom Silvério (2021 on course)_
+*  _Adult Education | Supplementary - E. E. Dom Silvério (2021 on course)_
 
 ## Worked at
 
