@@ -101,11 +101,9 @@ Django, Reactjs, Material UI, Relay, Graphql
 ##### Lhama Labs - [lhamalabs.com.br](lhamalabs.com.br)
 _Founder - Institutional website and Hosting services_
 
-2019 to present
-
 Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
 
-2021 to present
+2019 to present
 
 ##### Mepagg
 _Developer - Billing management system_
