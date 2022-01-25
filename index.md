@@ -56,29 +56,50 @@ E. E. Dom Silvério_
 ## Worked at
 
 ##### RGB Comunicação
-_Developer - Institutional websites using CodeIgniter | 2010 to 2012_
+_Developer - Institutional websites_
+
+CodeIgniter
+
+2010 to 2012
 
 ##### Gawa
-_Co-founder and Developer - Institutional websites
-CodeIgniter and Wordpress | 2012 to 2014_
+_Co-founder and Developer - Institutional websites_
+
+CodeIgniter and Wordpress
+
+2012 to 2014
 
 ##### Guidez
-_Co-founder and Developer - Local establishment guide 
-Django, Bootstrap, Jquery, NGINX | 2012 to 2015_
+_Co-founder and Developer - Local establishment guide_ 
+
+Django, Bootstrap, Jquery, NGINX
+
+2012 to 2015
 
 ##### Pleever - [pleever.com](pleever.com)
-_Developer - Gestão de revenda de veiculos novos e usados
-Dealing management system for new and used vehicles 
-Django, Bootstrap, Jquery, Docker, NGINX | 2015 to 2019_ 
+_Developer - Dealing management system for new and used vehicles_
+
+Django, Bootstrap, Jquery, Docker, NGINX
+
+2015 to 2019
 
 ##### Matiplus - [matiplus.com.br](matiplus.com.br)
-_Developer - Hotel management system
-Django, Bootstrap, Jquery, Docker, NGINX | 2018 to 2021_
+_Developer - Hotel management system_
+
+Django, Bootstrap, Jquery, Docker, NGINX
+
+2018 to 2021
 
 ##### Que Planta - [queplanta.com](queplanta.com)
-_Developer - Social Network to connect people with plants
-Django, Reactjs, Material UI, Relay, Graphql | 2019 to 2020_
+_Developer - Social Network to connect people with plants_
+
+Django, Reactjs, Material UI, Relay, Graphql
+
+2019 to 2020
 
 ##### Mepagg - [mepagg.com](mepagg.com)
-_Developer - Billing management system
-Django, Bootstrap, Jquery, Docker, NGINX, Gateway Payment Methods. | 2021_
+_Developer - Billing management system_
+
+Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
+
+2021
