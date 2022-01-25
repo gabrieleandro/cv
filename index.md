@@ -5,9 +5,6 @@
 A self learning Developer Full-stack.
 Working as freelancer since 2010.
 
-
-## Skills
-
 ### Languages
 * Portuguese (Native)
 * English (Intermediate)
@@ -16,6 +13,7 @@ Working as freelancer since 2010.
 ### O.S
 * Ubuntu
 
+## Skills
 
 ### Front-End Dev
 * HTML
