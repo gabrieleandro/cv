@@ -52,7 +52,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 * Mercurial
 
 ## Education
-* _Adult Education Supplementary - E. E. Dom Silvério (2021 on course)_
+* _Adult Education | Supplementary - E. E. Dom Silvério (2021 on course)_
 
 ## Worked at
 
@@ -77,14 +77,14 @@ Django, Bootstrap, Jquery, NGINX
 
 2012 to 2015
 
-##### Pleever - [pleever.com](pleever.com)
+##### Pleever
 _Developer - Dealing management system for new and used vehicles_
 
 Django, Bootstrap, Jquery, Docker, NGINX
 
 2015 to 2019
 
-##### Matiplus - [matiplus.com.br](matiplus.com.br)
+##### Matiplus
 _Developer - Hotel management system_
 
 Django, Bootstrap, Jquery, Docker, NGINX
@@ -106,7 +106,7 @@ Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
 
 2021 to present
 
-##### Mepagg - [mepagg.com](mepagg.com)
+##### Mepagg
 _Developer - Billing management system_
 
 Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
