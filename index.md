@@ -36,7 +36,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
   * Laravel (Beginner)
 
 #### CMS
-  * Wordpress
+* Wordpress
   * Elementor
 
 ### Databases
@@ -91,14 +91,14 @@ Django, Bootstrap, Jquery, Docker, NGINX
 
 2018 to 2021
 
-##### Que Planta - [queplanta.com](queplanta.com)
+##### Que Planta - [queplanta.com](https://queplanta.com)
 _Developer - Social Network to connect people with plants_
 
 Django, Reactjs, Material UI, Relay, Graphql
 
 2019 to 2020
 
-##### Lhama Labs - [lhamalabs.com.br](lhamalabs.com.br)
+##### Lhama Labs - [lhamalabs.com.br](https://lhamalabs.com.br)
 _Founder - Institutional website and Hosting services_
 
 Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
