@@ -3,16 +3,15 @@
 ## Summary
 
 _A self learning Developer Full-stack from Brazil.
-Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
+Working as freelancer since 2010._
+
+[Github](https://github.com/gabrieleandro)
 
 ### Languages
 * Portuguese (Native)
 * English (Intermediate)
 
 ## Skills
-
-### O.S
-* Ubuntu
 
 ### Front-End Dev
 * HTML
@@ -21,19 +20,18 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
   * LESS
 * JS
 
-#### Frameworks
-* React (Beginner)
-
 #### Styles
 * Bootstrap
 * Material UI
 
-### Back-End Dev
-* Python
-  * Django
-* PHP
-  * CodeIgniter
-  * Laravel (Beginner)
+#### Frameworks
+* Front-End
+  * React (Beginner)
+* Back-End
+  * Django - Python
+  * Django-restframework
+  * CodeIgniter- PHP 
+  * Laravel - PHP (Beginner)
 
 #### CMS
 * Wordpress
@@ -46,6 +44,7 @@ Working as freelancer since 2010. [Github](https://github.com/gabrieleandro)_
 ### Devops
 * NGINX
 * Docker
+  * Docker-Compose
 
 ### Version Control System
 * Git
@@ -57,57 +56,64 @@ _Adult Education | Supplementary - E. E. Dom Silvério (2021 on course)_
 ## Worked at
 
 ##### RGB Comunicação
-_Developer - Institutional websites_
+_Web Agency_
 
-CodeIgniter
+Several Institutional websites.
 
-2010 to 2012
+Made with CodeIgniter. Deployed using LAMP.
+
+Developer since 2010 to 2012.
 
 ##### Gawa
-_Co-founder and Developer - Institutional websites_
+_Web Agency_
 
-CodeIgniter and Wordpress
+Several Institutional websites.
 
-2012 to 2014
+Made with CodeIgniter or Wordpress. Deployed using LAMP.
+
+Co-founder and Developer since 2012 to 2014.
 
 ##### Guidez
-_Co-founder and Developer - Local establishment guide_ 
+_Local establishment guide_ 
 
-Django, Bootstrap, Jquery, NGINX
+Made with Django, Jquery, Bootstrap . Deployed using gunicorn, nginx and hosted on linode.
 
-2012 to 2015
+Co-founder and Developer since 2012 to 2015.
 
 ##### Pleever
-_Developer - Dealing management system for new and used vehicles_
+_Dealing management system for new and used vehicles_
 
-Django, Bootstrap, Jquery, Docker, NGINX
+Made with Django, Jquery, Bootstrap, Django-restframeowrk for the API . Deployed using docker container for the project files and ngix outside docker, hosted on linode.
 
-2015 to 2019
+Developer since 2015 to 2019.
 
 ##### Matiplus
-_Developer - Hotel management system_
+_Hotel management system_
 
-Django, Bootstrap, Jquery, Docker, NGINX
+Made with Django, Jquery, Bootstrap. Deployed using docker container for the project files and ngix outside docker, hosted on linode.
 
-2018 to 2021
+Developer since 2018 to 2021.
 
 ##### Que Planta - [queplanta.com](https://queplanta.com)
-_Developer - Social Network to connect people with plants_
+_Social Network to connect people with plants_
 
-Django, Reactjs, Material UI, Relay, Graphql
+Worked making a new frontend in Reactjs, Material UI, Relay, Graphql.
 
-2019 to 2020
+Developer since 2019 to 2021.
 
 ##### Lhama Labs - [lhamalabs.com.br](https://lhamalabs.com.br)
-_Founder - Institutional website and Hosting services_
+_- Institutional website and Hosting services_
 
-Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
+Several Institutional websites.
 
-2019 to present
+Made with CodeIgniter or Wordpress. Deployed using LAMP
+
+Founder and Developer since 2019 to present.
+
 
 ##### Mepagg
-_Developer - Billing management system_
+_Billing management system_
 
-Django, Bootstrap, Jquery, Docker, NGINX, API Payment gateways.
+Made with Django, Jquery, Bootstrap, Integrated with payments API. Deployed using docker container for the project files and ngix outside docker, hosted on linode.
 
-2021 to present
+Developer since 2021 to present.
