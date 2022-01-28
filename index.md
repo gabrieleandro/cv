@@ -2,8 +2,8 @@
 
 ## Summary
 
-_A self learning Developer Full-stack from Brazil.
-Working as freelancer since 2010._
+_A Full-Stack Developer from Brazil.
+Well expirience with designed, wrote and maintained several Websites, Web systems as freelancer since 2010._
 
 [Github](https://github.com/gabrieleandro)
 
@@ -29,24 +29,29 @@ Working as freelancer since 2010._
   * React (Beginner)
 * Back-End
   * Django - Python
-  * Django-restframework
-  * CodeIgniter- PHP 
+  * Django REST framework
+  * CodeIgniter - PHP 
   * Laravel - PHP (Beginner)
 
 #### CMS
-* Wordpress
+_Expirience on creating Websites from source or Elementor_
+* WordPress
   * Elementor
 
 ### Databases
-* MySql
+_Expirience on Design and maintaining Web DataBase systems._
+* MySQL
 * Postgres
 
 ### Devops
+_Expirience on creating Dockerfile for building Docker Images, creating Docker Compose files template to deploy images in Docker containers._
+
 * NGINX
 * Docker
-  * Docker-Compose
+  * Docker Compose
 
 ### Version Control System
+_Managed Source code, supported small to medium sized projects using GIT or Mercurial and used the concepts of branching, merging._
 * Git
 * Mercurial
 
@@ -69,28 +74,28 @@ _Web Agency_
 
 Several Institutional websites.
 
-Made with CodeIgniter or Wordpress. Deployed using LAMP.
+Made with CodeIgniter or WordPress. Deployed using LAMP.
 
 Co-founder and Developer since 2012 to 2014.
 
 ##### Guidez
 _Local establishment guide_ 
 
-Made with Django, Jquery, Bootstrap . Deployed using gunicorn, nginx and hosted on linode.
+Made with Django, jQuery, Bootstrap, Social Media Logins. Deployed using Gunicorn, NGINX, hosted on Cloud Server provider Linode.
 
 Co-founder and Developer since 2012 to 2015.
 
 ##### Pleever
 _Dealing management system for new and used vehicles_
 
-Made with Django, Jquery, Bootstrap, Django-restframeowrk for the API . Deployed using docker container for the project files and ngix outside docker, hosted on linode.
+Made with Django, jQuery, Bootstrap, Django REST frameowrk for the API. Deployed using Docker and Docker Compose, hosted on Cloud Server provider Linode.
 
 Developer since 2015 to 2019.
 
 ##### Matiplus
 _Hotel management system_
 
-Made with Django, Jquery, Bootstrap. Deployed using docker container for the project files and ngix outside docker, hosted on linode.
+Made with Django, jQuery, Bootstrap. Deployed using Docker and Docker Compose, hosted on Cloud Server provider Linode.
 
 Developer since 2018 to 2021.
 
@@ -106,7 +111,7 @@ _- Institutional website and Hosting services_
 
 Several Institutional websites.
 
-Made with CodeIgniter or Wordpress. Deployed using LAMP
+Made with CodeIgniter or WordPress. Deployed using LAMP.
 
 Founder and Developer since 2019 to present.
 
@@ -114,6 +119,6 @@ Founder and Developer since 2019 to present.
 ##### Mepagg
 _Billing management system_
 
-Made with Django, Jquery, Bootstrap, Integrated with payments API. Deployed using docker container for the project files and ngix outside docker, hosted on linode.
+Made with Django, jQuery, Bootstrap, Integrated with payments API and Cron Jobs to send emails. Deployed using Docker and Docker Compose, hosted on Cloud Server provider Linode.
 
 Developer since 2021 to present.
