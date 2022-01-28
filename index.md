@@ -39,7 +39,7 @@ _Expirience on creating Websites from source or Elementor_
   * Elementor
 
 ### Databases
-_Expirience on Design and maintaining Web DataBase systems._
+_Expirience on Design and maintaining._
 * MySQL
 * Postgres
 
@@ -107,7 +107,7 @@ Worked making a new frontend in Reactjs, Material UI, Relay, Graphql.
 Developer since 2019 to 2021.
 
 ##### Lhama Labs - [lhamalabs.com.br](https://lhamalabs.com.br)
-_- Institutional website and Hosting services_
+_Institutional website and Hosting services_
 
 Several Institutional websites.
 
