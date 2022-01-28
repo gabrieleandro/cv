@@ -3,7 +3,7 @@
 ## Summary
 
 _A Full-Stack Developer from Brazil.
-Well expirience with designed, wrote and maintained several Websites, Web systems as freelancer since 2010._
+Well expirience with designed, wrote and maintained several Websites and Web systems as freelancer since 2010._
 
 [Github](https://github.com/gabrieleandro)
 
